@@ -1,0 +1,25 @@
+FNF Anomalous (Shaggy)
+
+Song 1: Anomaly
+
+	Characters
+	(opponent) = Shaggy (Anom)
+	(player)   = Girlfriend
+
+Song 2: Abstraction
+
+	Characters
+	(opponent) = Shaggy (Anom)
+	(player)   = Girlfriend
+
+Song 3: Divine Devourer
+
+	Characters
+	(opponent) = Shaggy (Anom)
+	(player)   = Boyfriend
+
+Song 4: Instinct
+
+	Characters
+	(opponent) = Shaggy (Anom)
+	(player)   = Shaggy (WB)
